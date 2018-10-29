@@ -1,7 +1,7 @@
 body {background: repeating-linear-gradient( 
             180deg,
-            #6E9FFA,
-            #6E9FFA 5px,
+            #63BFF6,
+            #63BFF6 3px,
             #fff 0px,
             #fff 50px);
             height:fill;
@@ -44,10 +44,13 @@ div.a{
 div.b {
     display: flex;
     justify-content: center;
+
 }
 
 .ol{
     font-size: 18px;
+
+
 }
 ol ul li {
     list-style-type: center;
