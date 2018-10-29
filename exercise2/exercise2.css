@@ -1,0 +1,54 @@
+body {background: repeating-linear-gradient( 
+            180deg,
+            #6E9FFA,
+            #6E9FFA 5px,
+            #fff 0px,
+            #fff 50px);
+            height:fill;
+            width:fill;)
+             
+     }
+h1 {
+	background-color:#0A4695;
+	padding-left:10px;
+	font-family:Arial;
+	font-size: 50px;
+    letter-spacing: 5px;
+}
+
+p {
+    font-size: 20px;
+}
+
+
+.font {
+	font-family: Helvetica;
+	font-size: 35px;
+    font-style: italic;
+}
+.style	{
+	font-style: italic;
+}
+
+.center {
+    text-align: center;
+}
+div.a{
+    line-height: .90;
+}
+
+.uppercase {
+    text-transform: uppercase;
+}
+
+div.b {
+    display: flex;
+    justify-content: center;
+}
+
+.ol{
+    font-size: 18px;
+}
+ol ul li {
+    list-style-type: center;
+}
