@@ -1,0 +1,97 @@
+* {
+	box-sizing: border-box;
+}
+
+body {
+	background: black;
+}
+
+.canvas {
+	width: 900px;
+	height: 556px;
+	margin: 100px auto;
+	background: white;
+	position: relative;
+}
+
+#body {
+
+      width: 130px;
+      height: 120px;
+      background: black;
+      border-radius: 50%;
+      position: absolute;
+      top: 300px;
+      left: 370px;}
+ 
+ #body2 {
+
+      width: 100px;
+      height: 900px;
+      background: white;
+      border-radius: 50%;
+      position: absolute;
+      top: 300px;
+      left: 370px; 
+      border: solid 1px black;}
+
+   #face {
+      position: absolute;
+      width: 100px;
+      height: 90px;
+      top: -5px;
+      left: -400px;
+    }
+    #face:before,
+    #face:after {
+      position: absolute;
+      content: "";
+      left: 410px;
+      top: 0;
+      width: 50px;
+      height: 80px;
+      background: red;
+      border-radius: 50px 50px 0 0;
+      transform: rotate(-45deg);
+      transform-origin: 0 100%;
+    }
+    #face:after {
+      left: 360px;
+      transform: rotate(45deg);
+      transform-origin: 100% 100%;
+    }
+
+#head {
+
+      width: 100px;
+      height: 100px;
+      background: black;
+      border-radius: 50%;
+      position: absolute;
+
+      top: 230px;
+      left: 384px;}
+
+
+
+
+.arms {
+	background: black;
+      border-radius: 50%;
+      position: relative;
+      }
+
+.arms1 {
+width: 50px;
+      height: 100px;
+      top: 214px;
+      left: 470px;
+      transform: rotate(140deg);
+}
+.arms2 {
+width: 50px;
+      height: 100px;
+      top: 115px;
+      left: 350px;
+      transform: rotate(40deg)
+}
