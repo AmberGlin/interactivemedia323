@@ -1,126 +1,176 @@
-.p1{
+body {
+   
+    padding: 200px;
+    border: 5px dotted #006400;
+    width: 2000px;
+    position: absolute;
+}
+
+h2 {
+display: inline;
+}
+h3 {
+    display: inline;
+}
+
+h1 {
+    display: inline;
+}
+.div1{
 	
 	position: relative;
-    left: 1145px;
-    top: 300px;
-    /*border: 1px solid black;*/
+    padding: 20px;
+    display: inline-block;
+    border: 4px dotted #008000;
 }
-.p2{
+.div2{
 	
-	position: relative;
-    left: 1145px;
-    top: 325px;
-    /*border: 1px solid black;*/
+    display: inline-block;
+    padding: 5px;
+    border: 2px solid #32CD32;
+    margin-left: 10px;
+    margin-right: 1px;
+    position: relative;
+    bottom: 50;
+    right: 14;
 }
-.p3{
+.div3{
 	
-	position: relative;
-    left: 1145px;
-    top: 350px;
-    /*border: 1px solid black;*/
+	display: inline-block;
+    padding: 30px;
+    border: 10px double #32CD32;
+    right: 20px;
+    position: relative;
+    top: -45px;
+
 }
-.p4{
+
+.div4{
 	
-	position: relative;
-    left: 1145px;
-    top: 375px;
-    /*border: 1px solid black;*/
+    display: inline-block;
+    padding: 25px;
+    border: 1px dashed #32CD32;
+    position: relative;
+    top: 45px;
+    right: 70px;
 }
-.p5{
+.div5{
 	
-	position: relative;
-    left: 1145px;
-    top: 400px;
-    /*border: 1px solid black;*/
+	display: inline-block;
+    padding: 5px;
+    border: 10px outset #32CD32;
+    position: relative;
+    right: 120px;
+    top: -17;
 }
-.p6{
+.div6{
 	
-	position: relative;
-    left: 1145px;
-    top: 425px;
-    /*border: 1px solid black;*/
+	display: inline-block;
+    padding: 25px;
+    border: 7px solid #32CD32;
+    position: relative;
+    right: 127;
+    top: -82;
 }
-.p7{
+.div7{
 	
-	position: relative;
-    left: 1145px;
-    top: 450px;
-    /*border: 1px solid black;*/
+    display: inline-block;
+    padding: 30px;
+    border: 10px dashed #32CD32;
+    position: relative;
+    right: 130;
 }
-.p8{
+.div8{
 	
-	position: relative;
-    left: 1145px;
-    top: 475px;
-    /*border: 1px solid black;*/
+	display: inline-block;
+    padding: 20px;
+    border: 10px dashed #32CD32;
+    margin-left: 25px;
 }
-.p9{
+.div9{
 	
-	position: relative;
-    left: 1145px;
-    top: 500px;
-    /*border: 1px solid black;*/
+	display: inline-block;
+    padding: 5px;
+    border: 5px dotted #32CD32;
+position: relative;
+right: 200px;
 }
-.p10{
+
+
+.h1{
 	
-	position: relative;
-    left: 1145px;
-    top: 525px;
-    /*border: 1px solid black;*/
+	display: inline-block;
+    padding: 65px;
+    border: 10px ridge #32CD32;
+    position: relative;
+    right: 190px;
+    top: 185px;
 }
-.p11{
+.div11{
 	
-	position: relative;
-    left: 1145px;
-    top: 550px;
-    /*border: 1px solid black;*/
+	display: inline-block;
+    padding: 40px;
+    border: 10px double #32CD32;
+    position: relative;
+    right: 192px;
+    top: 30px;
 }
-.p12{
+.div12{
 	
-	position: relative;
-    left: 1145px;
-    top: 575px;
-    /*border: 1px solid black;*/
+	display: inline-block;
+    padding: 2px;
+    border: 30px outset #32CD32;
+    padding-right: 10px;
+    padding-left: 10px;
+    position: relative;
+    top: -50px;
+    right: 290px;
 }
-.p13{
+.div13{
 	
-	position: relative;
-    left: 1145px;
-    top: 600px;
-    /*border: 1px solid black;*/
+	display: inline-block;
+    padding: 20px;
+    border: 5px solid #32CD32;
+    position: relative;
+    right: 345px;
+    top: 172px;
 }
-.p14{
+
+.div14{
 	
-	position: relative;
-    left: 1145px;
-    top: 625px;
-    /*border: 1px solid black;*/
+	display: inline-block;
+    padding: 15px;
+    border: 2px solid #32CD32;
+    position: relative;
+    right: 378px;
+    top: 112px;
 }
-.p15{
+.div15{
 	
-	position: relative;
-    left: 1145px;
-    top: 650px;
-    /*border: 1px solid black;*/
+	display: inline-block;
+    padding: 55px;
+    border: 5px dashed #32CD32;
+    position: relative;
+    right: 426px;
+    top: 17px;
 }
-.p16{
-	
-	position: relative;
-    left: 1145px;
-    top: 675px;
-    /*border: 1px solid black;*/
+
+.div16{
+	display: inline-block;
+	padding: 50px;
+    border: 20px groove #32CD32;
+    position: relative;
+    right: 430px;
+    top: -82px;
 }
-.p17{
-	
-	position: relative;
-    left: 1145px;
-    top: 700px;
-    /*border: 1px solid black;*/
+.div17{
+    display: inline-block;
+    padding: 271px;
+    padding-left: 270px;
+    border: 20px dotted #32CD32;
+    position: absolute;
+    right: 7px;
+    top: 6px;
+    padding-left: 1948px;
 }
-.p18{
-	
-	position: relative;
-    left: 1145px;
-    top: 725px;
-    /*b*/order: 1px solid black;
-}
+

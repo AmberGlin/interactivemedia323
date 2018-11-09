@@ -1,0 +1,67 @@
+body {
+	position: absolute;
+}
+
+.avo {
+	font-size: 500px;
+	text-align: center;
+	text-transform: uppercase;
+	position: absolute;
+	left: 810px;
+}
+
+.font{
+  font-style: oblique;
+  font-size: 20px;
+}
+.som{
+position: relative;
+left: -1255px;
+bottom: 200px;
+}
+.shor{
+	position: relative;
+	left: -925px;
+bottom: 410px;
+}
+.poems {
+	position: relative;
+	left: -584px;
+bottom: 355px;
+}
+.wr {
+	position: relative;
+	left: -202px;
+bottom: 361px;
+}
+.are {
+	position: relative;
+	left: 96px;
+bottom: 366px;
+}
+.hard {
+	position: relative;
+		left: 500px;
+bottom: 366px;
+}
+.change {
+	position: relative;
+		left: 833px;
+bottom: 516px;
+}
+.and {
+	position: relative;
+		left: 833px;
+bottom: 516px;
+}
+.whole {
+	position: relative;
+		left: 1289px;
+bottom: 621px;
+}
+.poem {
+	position: relative;
+		left: 1277px;
+bottom: 621px;
+
+}

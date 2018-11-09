@@ -1,0 +1,36 @@
+h3 {
+position: absolute;
+left: 800px;
+top: 300px;
+border: #6ee92f 10px solid;
+padding: 5px;
+}
+
+.one {
+position: relative;
+border: #D8F440 5px dotted;
+}
+.two {
+position: relative;
+border: #D8F440 5px dotted;
+}
+.three {
+position: relative;
+border: #D8F440 5px dotted;
+}
+.four {
+position: relative;
+border: #D8F440 5px dotted;
+}
+.five {
+position: relative;
+border: #D8F440 5px dotted;
+}
+.six {
+position: relative;
+border: #D8F440 5px dotted;
+}
+.seven {
+position: relative;
+border: #D8F440 5px dotted;
+}

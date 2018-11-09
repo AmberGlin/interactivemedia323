@@ -1,0 +1,11 @@
+body{
+	position: absolute;
+}
+
+.font-size {
+	font-size: 100px;
+	letter-spacing: 180px;
+	position: relative;
+	text-align: center; 
+	
+}

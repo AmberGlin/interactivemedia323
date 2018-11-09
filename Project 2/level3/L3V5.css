@@ -1,0 +1,74 @@
+body {
+	border: 350px solid black;
+	padding: 50px;
+	width: 470px;
+}
+
+.width{
+	width: -moz-min-content;
+}
+.one {
+	position: relative;
+	border: 100px solid black;
+	
+}
+h5.one{
+	margin:0;
+}
+.two {
+	position: relative;
+	border: 20px solid black;
+	border-right-width: 220px;
+}
+.three {
+	position: relative;
+	border: 20px solid black;
+	border-right-width: 150px;
+	
+}
+.four {
+	position: relative;
+	border: 20px solid black;
+	border-right-width: 200px;
+}
+.five {
+	position: relative;
+	border: 20px solid black;
+	border-right-width: 60px;
+}
+.six {
+	position: relative;
+	border: 20px solid black;
+	border-right-width: 130px;
+}
+.seven {
+	position: relative;
+	border: 20px solid black;
+	border-right-width: 100px;
+}
+.eight {
+	position: relative;
+	border: 20px solid black;
+	border-right-width: 200px;
+}
+
+.nine {
+	position: relative;
+	border: 20px solid black;
+	border-right-width: 210px;
+}
+.ten {
+	position: relative;
+	border: 20px solid black;
+	border-right-width: 140px;
+}
+.eleven {
+	position: relative;
+	border: 20px solid black;
+	border-right-width: 200px;
+}
+.twelve {
+	position: relative;
+	border: 20px solid black;
+	border-right-width: 90px;
+}
