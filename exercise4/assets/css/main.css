@@ -1,4 +1,4 @@
-* {
+  * {
 	box-sizing: border-box;
 }
 
@@ -22,25 +22,47 @@ body {
       border-radius: 50%;
       position: absolute;
       top: 300px;
-      left: 370px;}
+      left: 369px;}
  
  #body2 {
 
-      width: 100px;
-      height: 900px;
+      width: 113px;
+      height: 100px;
       background: white;
       border-radius: 50%;
-      position: absolute;
-      top: 300px;
-      left: 370px; 
+      position: relative;
+      top: 18px;
+      left: 9px; 
       border: solid 1px black;}
+
+    .feet{
+      position: relative;
+
+
+      }
+    .foot1{
+      position: relative;
+      width: 30px;
+      height: 20px;
+      background: black;
+      border-radius: 50%
+    
+      } 
+    
+    .foot2{
+      position: relative;
+      width: 30px;
+      height: 20px;
+      background: black;
+      border-radius: 50%
+      }
 
    #face {
       position: absolute;
       width: 100px;
       height: 90px;
-      top: -5px;
-      left: -400px;
+      top: 13px;
+      left: -360px;
     }
     #face:before,
     #face:after {
@@ -50,7 +72,7 @@ body {
       top: 0;
       width: 50px;
       height: 80px;
-      background: red;
+      background: #ffffff;
       border-radius: 50px 50px 0 0;
       transform: rotate(-45deg);
       transform-origin: 0 100%;
@@ -60,6 +82,28 @@ body {
       transform: rotate(45deg);
       transform-origin: 100% 100%;
     }
+
+.eyes{  
+      width: 15px;
+      height: 15px;
+      background: black;
+      border-radius: 50%
+    }
+
+
+#eye1 {
+position: relative;
+left: 423px;
+top: 13px;
+z-index: 5;
+
+}
+
+#eye2 {
+position: relative;
+left: 378px;
+z-index: 5;
+}
 
 #head {
 
@@ -72,9 +116,6 @@ body {
       top: 230px;
       left: 384px;}
 
-
-
-
 .arms {
 	background: black;
       border-radius: 50%;
@@ -84,14 +125,14 @@ body {
 .arms1 {
 width: 50px;
       height: 100px;
-      top: 214px;
-      left: 470px;
+      top: 284px;
+      left: 466px;
       transform: rotate(140deg);
 }
 .arms2 {
 width: 50px;
       height: 100px;
-      top: 115px;
+      top: 185px;
       left: 350px;
       transform: rotate(40deg)
 }
