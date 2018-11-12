@@ -1,0 +1,263 @@
+body {
+	
+    border: 1px solid black;
+    width: 2000px;
+    height: 4000px;
+    
+    position: absolute;
+}
+
+.avo {
+	position: absolute;
+	font-size: 130px;
+	top: 36px;
+}
+
+.avo2 {
+	position: absolute;
+	font-size: 130px;
+	top: 36px;
+	left: 355px;
+}
+.avo3 {
+	position: absolute;
+	font-size: 130px;
+	top: 36px;
+	left: 757px;
+}
+.avo4 {
+	position: absolute;
+	font-size: 130px;
+	top: 36px;
+	left: 1185px;
+}
+.avo5 {
+	position: absolute;
+	font-size: 130px;
+	top: 36px;
+	left: 1580px;
+}
+.avo6 {
+	position: absolute;
+	font-size: 130px;
+	top: 36px;
+	left: 1930px;
+}
+.avo7 {
+	position: relative;
+	font-size: 130px;
+	top: 179px;
+	left:0px;
+}
+
+.avo8 {
+	position: absolute;
+	font-size: 130px;
+	top: 0px;
+	left: 350px;
+}
+.avo9 {
+	position:absolute;
+	font-size: 130px;
+	top: 0px;
+	left:750px;
+}
+.avo10 {
+	position: absolute;
+	font-size: 130px;
+	top: 0px;
+	left: 1190px;
+}
+.avo11 {
+	position: absolute;
+	font-size: 130px;
+	top: 0px;
+	left: 1575px;
+}
+.avo12 {
+	position: absolute;
+	font-size: 130px;
+	top: 0px;
+	left: 1930px;
+}
+.avo13 {
+	position: absolute;
+	font-size: 130px;
+	top: 500px;
+	left: -350px;
+}
+.avo14 {
+	position: absolute;
+	font-size: 130px;
+	top: 500px;
+	left: -10px;
+}
+.avo15 {
+	position: absolute;
+	font-size: 130px;
+	top: 500px;
+	left: 400px;
+}
+
+.avo16 {
+	position: absolute;
+	font-size: 130px;
+	top: 500px;
+	left: 849px;
+}
+
+.avo17 {
+	position: absolute;
+	font-size: 130px;
+	top: 50px;
+	left: 1230px;
+}
+
+.avo18 {
+	position: absolute;
+	font-size: 130px;
+	top: 500px;
+	left: 1582px;
+}
+
+.avo19 {
+	position: absolute;
+	font-size: 130px;
+	top: 0px;
+	left: 900px;
+}
+
+.avo20 {
+	position: relative;
+	font-size: 130px;
+	top: 0px;
+	left: 900px;
+}
+
+.top{
+top: 1315px;
+}
+
+.lines {
+position: relative;
+/*font-family: Verdana, Geneva, sans-serif;*/
+font-size: 34px;
+line-height: 125px;
+margin: 0px;
+letter-spacing: 2px;
+}
+
+.line1 {
+font-family: Verdana, Geneva, sans-serif;
+}
+.line2 {
+font-family: "Georgia", serif;
+}
+.line3 {
+font-family: "Times New Roman", Times, serif;
+}
+.line4 {
+font-family: "Arial Black", Gadget, sans-serif;
+}
+.line5 {
+font-family: "Comic Sans MS", cursive, sans-serif;
+}
+.line6 {
+font-family: Impact, Charcoal, sans-serif;
+}
+.line7 {font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+
+}
+.line8 {
+font-family: "Trebuchet MS", Helvetica, sans-serif;
+}
+.line9 {
+font-family: "Courier New", Courier, monospace;
+}
+.line10 {
+font-family: "Lucida Console", Monaco, monospace;
+}
+.line11 {
+font-family: "Times New Roman", Times, serif;
+text-transform: capitalize;
+}
+.line12 {
+font-family: Verdana, Geneva, sans-serif;
+font-style: italic;
+}
+.line13 {
+font-family: "Trebuchet MS", Helvetica, sans-serif;
+font-style: oblique;
+}
+.line14 {
+font-family: 'Alegreya Sans SC';
+}
+.line15 {
+font-family: "Gadget", Arial Black, sans-serif;
+
+}
+.line16 {
+font-family: Verdana, Geneva, sans-serif;
+font-style: italic;
+}
+.line17 {
+font-family: "Courier New", Courier, monospace;
+text-transform: uppercase;
+}
+.line18 {
+font-family: "Trebuchet MS", Helvetica, sans-serif;
+font-weight: bold;
+}
+.line19 {
+font-family: "Times New Roman", Times, serif;
+font-size: 10px;
+}
+.line20 {
+font-family: Impact, Charcoal, sans-serif;
+font-weight: bold;
+}
+
+.line21 {
+
+letter-spacing: 8px;
+}
+.line22 {
+font-family: Verdana, Geneva, sans-serif;
+letter-spacing: -5px;
+}
+.line23 {
+font-family: 'Alegreya Sans SC';
+}
+.line24 {
+font-family: "Lucida Console", Monaco, monospace;
+}
+.line25 {
+font-family: "Georgia", serif;
+}
+.line26 {
+font-family:  Helvetica, sans-serif;
+font-style: italic;
+}
+.line27 {
+font-family:  'Antic Didone';
+}
+
+.line28 {
+font-family: "Comic Sans MS", cursive, sans-serif;
+font-size: 30px;
+}
+.line29 {
+font-family: Verdana, Geneva, sans-serif;
+}
+.line30 {
+font-family: "Arial Black", Gadget, sans-serif;
+letter-spacing: -8px;
+font-weight: bold;
+}
+.line31 {
+font-family: Verdana, Geneva, sans-serif;
+}
+.line32 {
+font-family:inherit;
+text-transform: uppercase;
+}

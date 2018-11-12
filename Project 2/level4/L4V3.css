@@ -1,0 +1,103 @@
+body {
+	
+    border: 1px solid #228B22;
+    width: 2000px;
+    height: 1500px;
+    
+    position: absolute;
+}
+.avo {
+	text-align: center;
+	font-size: 50px;
+	position: absolute;
+	font-family: Verdana, Geneva, sans-serif;
+	text-transform: oblique;
+	top: 843px;
+	left: 0px;
+	background-color: #8B4513;
+	padding: 5px;
+	z-index: 2;
+	width: 1992px;
+	letter-spacing: 100px;
+}
+
+.lines {
+position: relative;
+font-family: Verdana, Geneva, sans-serif;
+font-size: 38px;
+line-height: 125px;
+margin: 0px;
+letter-spacing: 2px;
+}
+
+.VB1 {
+position: absolute;
+background-color: #006400; 
+width: 250px;
+height: 1500px;
+top:0px;
+left:0px;
+}
+
+.VB2 {
+position: absolute;
+background-color:#46f441; 
+width: 250px;
+height: 1500px;
+top:0px;
+left:250px;
+}
+
+.VB3 {
+position: absolute;
+background-color:#95f441; 
+width: 250px;
+height: 1500px;
+top:0px;
+left:500px;
+}
+
+.VB4 {
+position: absolute;
+background-color: #dcf442; 
+width: 250px;
+height: 1500px;
+top:0px;
+left:750px;
+}
+
+.VB5 {
+position: absolute;
+background-color:#dcf442; 
+width: 250px;
+height: 1500px;
+top:0px;
+left:1000px;
+}
+
+.VB6 {
+position: absolute;
+background-color: #95f441; 
+width: 250px;
+height: 1500px;
+top:0px;
+left:1250px;
+}
+
+.VB7 {
+position: absolute;
+background-color: #46f441; 
+width: 250px;
+height: 1500px;
+top:0px;
+left: 1500px;
+}
+
+.VB8 {
+position: absolute;
+background-color: #006400; 
+width: 250px;
+height: 1500px;
+top:0px;
+left:1750px;
+}

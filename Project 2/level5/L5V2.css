@@ -1,0 +1,32 @@
+body {
+	background-color: black;
+}
+
+.font {
+	font-family: 'Arial black', sans serif;
+	font-weight: bold;
+	font-size: 250px;
+}
+
+
+p {
+
+	text-align: center;
+	font-family: Verdana, Geneva, sans-serif;
+	color: white;
+}
+
+div {
+	position: relative;
+	top: 300px;
+	justify-content: center;
+	text-align: center;
+	color: white;
+    background-color: black;
+    display: none;
+    letter-spacing: -30px;
+}
+
+p:hover + div {
+    display: inline-block;
+}
