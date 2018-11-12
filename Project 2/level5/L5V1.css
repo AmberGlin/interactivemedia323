@@ -1,7 +1,7 @@
 body {
   background-color: #850d0d;
   font-family: 'Luckiest Guy', cursive;
-  font-size: 8px;
+  font-size: 9px;
 }
 
 path {
@@ -12,9 +12,9 @@ text {
   fill: #F5E70F;}
 
  #circle1 { 
-position: absolute;
-left: 303px;
-top: 192px;
+position: relative;
+    left: 490px;
+    top: -1500px;
 width: 745px;
 height: 520px;
 background: #006400;
