@@ -11,8 +11,9 @@ word-spacing: 5px;
 .font2 {
 	position: absolute;
 	right: 0px;
-	height: 1408px;
-	 writing-mode: vertical-rl;
+  top: 0px;
+	height: 1600px;
+	 writing-mode: vertical-lr;
   text-orientation: upright;
 word-spacing: 5px;
 }
@@ -40,4 +41,67 @@ word-spacing: 5px;
 @keyframes ani1 {
     0%   { left:50px; top:0px;}
     100%  { left:2150px; top:0px;}
+}
+
+.author {
+position: absolute;
+top: 1700px;
+margin-right: 5px;
+margin-bottom: 5px;
+right: 0px;
+font-size: large;
+}
+
+
+.home:hover {
+  background-color: darkgreen;
+}
+
+.prev:hover {
+    background-color: darkgreen;   
+}
+
+.next:hover {
+    background-color: darkgreen;   
+}
+
+
+#symbol {
+  position: absolute;
+right: 67px;
+top: 4px;
+margin: 10px;
+}
+
+.home {
+height: 30px;
+width: 30px;
+background-color: #7CFC00;
+border-radius: 50%;
+left: 133px;
+    }
+
+.prev {
+position: relative;
+border-radius: 30px;
+background: #7CFC00;
+padding: 2px;
+width: 5px;
+height: 42px;
+top: -38px;
+left: -31px;
+transform: rotate(90deg);
+}
+
+.next {
+position: relative;
+border-radius: 30px;
+background: #7CFC00;
+padding: 2px;
+width: 5px;
+height: 42px;
+top: -84px;
+left: 51px;
+transform: rotate(90deg);
+margin-right: 2px;
 }
