@@ -1,0 +1,38 @@
+body {
+	width: 1280px;
+	height: 800px;
+	background-color: black; 
+}
+
+.font {
+	font-family: 'MS Reference Sans Serif';
+	font-size: 40px;
+}
+
+.wound {
+padding-top: 460px;
+	/*margin-left: 297px;*/
+
+	color: #8B0000;
+	text-align: center;
+	
+	
+}
+
+.broken {
+	display: inline;
+	text-align: center;
+	color: #2C2C2C;
+}
+
+.stand {
+	color: white;
+	text-align: center;
+}
+
+.tall{
+	color: #808080;
+	display: inline;
+	
+}
+

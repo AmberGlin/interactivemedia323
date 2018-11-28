@@ -10,20 +10,24 @@ body {
 }
 
 .line1 {
-	color: #3d3d3f;
-	padding-top: 420px;
+	color: #2C2C2C;
 	text-align: center;
-	margin-left: 40px;
+	padding-top: 490px;
+	margin-left: 297px;
 }
 
 .darkest {
 	display: inline;
 	text-align: center;
+	color: #2C2C2C;
 }
 
 .alone {
-	color: #3d3d3f;
+	color: #2C2C2C;
 	position: absolute;
-	padding-top: 150px;
-	right: 300px;
+ 	padding-top: 300px;
+    right: 500px;
+    font-size: 20px;
 }
+
+hover color #242424
