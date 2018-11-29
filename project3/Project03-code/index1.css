@@ -1,50 +1,50 @@
 body {
-	width: 1280px;
-	height: 800px;
+	width: 1500px;
+	height: 110000px;
 	background-color: black; 
+	margin-left: 11vw;
 }
 
 .font {
 	font-family: 'MS Reference Sans Serif';
-	font-size: 40px;
+	font-size: 50px;
 }
 
 .line1 {
 	color: #2C2C2C;
 	text-align: center;
-	padding-top: 490px;
-	margin-left: 297px;
-}
+	padding-top: 42vh;
+	margin-left: -24vw; }
 
 .darkest {
 	display: inline;
 	text-align: center;
-	color: #2C2C2C;
+	color: #191919;
 }
 
 .alone {
-	color: #2C2C2C;
+	color: #191919;
 	position: absolute;
- 	padding-top: 300px;
-    right: 500px;
-    font-size: 20px;
+ 	margin-left: 65vw;
+	margin-top: 16vh;
+    font-size: 25px;
 }
 
 #hover1:hover { 
 text-decoration: none;
-color: #191919;
+color: #232323;
  }
 
  a:hover { 
 text-decoration: none;
-color: #191919;
+color: #232323;
  }
 a {
 	text-decoration: none;
 	color: inherit;
 }
 
-hover color #242424
+hover color #232323
 
 /*#l1b1:hover  .reveal1 {*/
     /*display: block;*/

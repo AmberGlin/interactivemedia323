@@ -1,7 +1,8 @@
 body {
-	width: 1280px;
-	height: 800px;
+	width: 1500px;
+	height: 110000px;
 	background-color: black; 
+	margin-left: 11vw;
 }
 
 .font {
@@ -9,14 +10,16 @@ body {
 	font-size: 40px;
 }
 
-.wound {
-padding-top: 460px;
-	/*margin-left: 297px;*/
+.font2 {
+	font-family: 'MS Reference Sans Serif';
+	font-size: 80px;
+}
 
+.wound {
+	padding-top: 32vh;
+	margin-left: 2vw;
 	color: #8B0000;
 	text-align: center;
-	
-	
 }
 
 .broken {
@@ -26,13 +29,30 @@ padding-top: 460px;
 }
 
 .stand {
+	margin-top: 16vh;
+	margin-left: 5vw;
 	color: white;
 	text-align: center;
+	letter-spacing: 10px;
 }
 
 .tall{
 	color: #808080;
 	display: inline;
 	
+}
+
+.tall:hover {
+	text-decoration: none;
+	color: #939393;
+}
+
+ a:hover { 
+text-decoration: none;
+color: #232323;
+ }
+a {
+	text-decoration: none;
+	color: inherit;
 }
 
