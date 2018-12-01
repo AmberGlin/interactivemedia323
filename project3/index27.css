@@ -1,0 +1,60 @@
+body {
+	width: 1500px;
+	height: 1100px;
+	background-color: black; 
+	margin-left: 11vw;
+}
+
+.font {
+	font-family: 'MS Reference Sans Serif';
+	font-size: 50px;
+}
+
+
+.line {
+	padding-top: 38vh;
+	margin-left: 3vw;
+	color: white;
+	text-align: center;
+}
+
+
+.but {
+	display: inline;
+	color: #2C2C2C;
+}
+
+.vic {
+	display: inline;
+	color: #ffff41;
+	
+}
+
+.offer {
+	display: inline;
+	
+	
+}
+
+.offer:hover {
+	color: #dbdbdb;
+}
+
+.author {
+	position: absolute;
+	color: #706e6e;
+	 bottom: 0px;
+	 right: 10px;
+	 font-size: 20px;
+}
+
+
+ /*a:hover { */
+/*text-decoration: none;*/
+/*color: #545454;*/
+ }
+/*a {*/
+	/*text-decoration: none;*/
+	/*color: inherit;*/
+/*}*/
+

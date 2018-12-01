@@ -1,0 +1,39 @@
+body {
+	width: 1500px;
+	height: 1100px;
+	background-color: black; 
+	margin-left: 11vw;
+}
+
+.font {
+	font-family: 'MS Reference Sans Serif';
+	font-size: 50px;
+}
+
+.line {
+	color: #2C2C2C;
+	text-align: center;
+	padding-top: 27vh;
+	margin-left: -60vw;
+ }
+
+.bat {
+	display: inline;
+	color: #8B0000;
+	
+}
+
+
+#hover1:hover { 
+text-decoration: none;
+color:#a00000;
+ }
+
+ /*a:hover { */
+/*text-decoration: none;*/
+/*color: #232323;*/
+ }
+/*a {*/
+	/*text-decoration: none;*/
+	/*color: inherit;*/
+}

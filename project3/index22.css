@@ -1,0 +1,61 @@
+body {
+	width: 1500px;
+	height: 1100px;
+	background-color: black; 
+	margin-left: 11vw;
+}
+
+.font {
+	font-family: 'MS Reference Sans Serif';
+	font-size: 50px;
+}
+
+.line {
+	color: #2C2C2C;
+	text-align: center;
+	padding-top: 42vh;
+	margin-left: 2vw; }
+
+.finally {
+	display: inline;
+	color: #2C2C2C;
+	font-size: 70px;
+}
+
+.sleep {
+	display: inline;
+	color: #2C2C2C;
+	font-size: 60px; 
+}
+
+.welcome {
+	display: inline;
+	color: #545454;
+	 
+}
+
+.friend {
+	display: inline;
+	color: #131313;
+	
+}
+
+#hover1:hover { 
+text-decoration: none;
+color: #757575;
+ }
+
+#hover2:hover { 
+text-decoration: none;
+color: #2d2d2d;
+ }
+
+
+ a:hover { 
+text-decoration: none;
+color: ;
+ }
+a {
+	text-decoration: none;
+	color: inherit;
+}

@@ -1,0 +1,52 @@
+body {
+	width: 1500px;
+	height: 1100px;
+	background-color: black; 
+	margin-left: 11vw;
+}
+
+.font {
+	font-family: 'MS Reference Sans Serif';
+	font-size: 50px;
+}
+
+
+.line {
+	padding-top: 37vh;
+	margin-left: 3vw;
+	color: white;
+	text-align: center;
+}
+
+
+.will {
+	display: inline;
+	color: #ffe975;
+}
+
+.fight {
+	display: inline;
+	
+	font-size: 60px;
+}
+
+.war {
+	display: inline;
+	color: #8B0000;
+	font-size: 53px;
+}
+
+.war:hover {
+	color: #a00000;
+}
+
+
+ /*a:hover { */
+/*text-decoration: none;*/
+/*color: #545454;*/
+ }
+/*a {*/
+	/*text-decoration: none;*/
+	/*color: inherit;*/
+/*}*/
+

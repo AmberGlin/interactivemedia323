@@ -1,0 +1,46 @@
+body {
+	width: 1500px;
+	height: 1100px;
+	background-color: black; 
+	margin-left: 11vw;
+}
+
+.font {
+	font-family: 'MS Reference Sans Serif';
+	font-size: 50px;
+}
+
+.line {
+	color: #2C2C2C;
+	text-align: center;
+	padding-top: 42vh;
+	margin-left: 1vw; }
+
+.struggles {
+	display: inline;
+	text-align: center;
+	color: #0a0a0a;
+}
+
+.groan {
+	display: inline;
+	color: #0a0a0a;
+	font-size: 50px;
+    font-style: oblique;
+	text-transform: full-width;
+	font-weight: bold;
+}
+
+#hover1:hover { 
+text-decoration: none;
+color: #232323;
+ }
+
+ a:hover { 
+text-decoration: none;
+color: #232323;
+ }
+a {
+	text-decoration: none;
+	color: inherit;
+}

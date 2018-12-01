@@ -1,0 +1,52 @@
+body {
+	width: 1500px;
+	height: 1100px;
+	background-color: black; 
+	margin-left: 11vw;
+}
+
+.font {
+	font-family: 'MS Reference Sans Serif';
+	font-size: 50px;
+}
+
+.challenge {
+	padding-top: 36vh;
+	margin-left: 2vw;
+	color: white;
+	text-align: center;
+}
+
+.over {
+	display: inline;
+	color: #5f5d5d;
+}
+
+.cons {
+	color: #8B0000;
+	display: inline;
+
+}
+
+.battle{
+	color: #373636;
+	display: inline;
+	font-style: italic;
+font-weight: bold;
+}
+
+.battle:hover {
+	text-decoration: none;
+	color: #4f4e4e;
+
+}
+
+ /*a:hover { */
+/*text-decoration: none;*/
+/*color: #545454;*/
+ }
+/*a {*/
+	/*text-decoration: none;*/
+	/*color: inherit;*/
+/*}*/
+

@@ -1,0 +1,61 @@
+body {
+	width: 1500px;
+	height: 1100px;
+	background-color: black; 
+	margin-left: 11vw;
+}
+
+.font {
+	font-family: 'MS Reference Sans Serif';
+	font-size: 50px;
+}
+
+/*.font2 {*/
+	/*font-family: 'MS Reference Sans Serif';*/
+	/*font-size: 60px;*/
+	/*display: inline;*/
+/*}*/
+
+.line {
+	padding-top: 37vh;
+margin-left: 3vw;
+	color: white;
+	text-align: center;
+}
+
+.line2 {
+	display: inline;
+	margin-left: -2vw;
+	color: white;
+	text-align: center;
+}
+
+.joy {
+	display: inline;
+	color: #ffe975;
+}
+
+.bright {
+	display: inline;
+	color: #ffe975;
+}
+
+.for {
+	display: inline;
+	color: #dbdbdb
+}
+
+.for:hover {
+	color: white;
+}
+
+
+ /*a:hover { */
+/*text-decoration: none;*/
+/*color: #545454;*/
+ }
+/*a {*/
+	/*text-decoration: none;*/
+	/*color: inherit;*/
+/*}*/
+

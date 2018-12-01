@@ -1,0 +1,54 @@
+body {
+	width: 1500px;
+	height: 1100px;
+	background-color: black; 
+	margin-left: 11vw;
+}
+
+.font {
+	font-family: 'MS Reference Sans Serif';
+	font-size: 50px;
+}
+
+.line {
+	color: #2C2C2C;
+	text-align: center;
+	padding-top: 42vh;
+	margin-left: 2vw; 
+}
+
+.morning {
+	display: inline;
+	color: #545454;
+}
+
+.battle {
+	display: inline;
+	color: #141414;
+}
+
+/*.relate {
+	display: inline;
+	color: #131313;
+	font-size: 50px; 
+}
+*/
+#hover1:hover { 
+text-decoration: none;
+color: #2C2C2C;
+ }
+
+#hover2:hover { 
+text-decoration: none;
+color: #2C2C2C;
+ }
+
+
+ /*a:hover { 
+text-decoration: none;
+color: #232323;
+ }
+a {
+	text-decoration: none;
+	color: inherit;
+}*/

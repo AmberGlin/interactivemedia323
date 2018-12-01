@@ -1,0 +1,59 @@
+body {
+	width: 1500px;
+	height: 1100px;
+	background-color: black; 
+	margin-left: 11vw;
+}
+
+.font {
+	font-family: 'MS Reference Sans Serif';
+	font-size: 50px;
+}
+
+.font2 {
+	font-family: 'MS Reference Sans Serif';
+	font-size: 60px;
+	display: inline;
+}
+
+.grey {
+	padding-top: 36vh;
+	margin-left: 2vw;
+	color: #5f5d5d;
+	text-align: center;
+}
+
+/*.line2 {
+	
+	margin-left: 1vw;
+	color: white;
+	text-align: center;
+}*/
+
+.white {
+	text-align: center;
+	color: white;
+	line-height: 87px;
+	margin-left: 1vw;
+}
+
+.fight {
+	color: #dbdbdb;
+	display: inline;
+
+}
+
+.fight:hover {
+	color: white;
+}
+
+
+ /*a:hover { */
+/*text-decoration: none;*/
+/*color: #545454;*/
+ }
+/*a {*/
+	/*text-decoration: none;*/
+	/*color: inherit;*/
+/*}*/
+

@@ -1,0 +1,56 @@
+body {
+	width: 1500px;
+	height: 1100px;
+	background-color: black; 
+	margin-left: 11vw;
+}
+
+.font {
+	font-family: 'MS Reference Sans Serif';
+	font-size: 50px;
+}
+.font2 {
+	display: inline;
+	font-family: 'MS Reference Sans Serif';
+	font-size: 52px;
+}
+
+.font3 {
+	font-size: 55px;
+}
+
+
+.fight {
+	padding-top: 36vh;
+	margin-left: 2vw;
+	color: white;
+	text-align: center;
+}
+
+.some {
+	display: inline;
+	color: #373636;
+}
+
+.enough {
+
+	display: inline;
+	color: #373636;
+}
+
+
+.enough:hover {
+	text-decoration: none;
+	color: #272626;
+
+}
+
+ /*a:hover { */
+/*text-decoration: none;*/
+/*color: #545454;*/
+ }
+/*a {*/
+	/*text-decoration: none;*/
+	/*color: inherit;*/
+/*}*/
+
