@@ -13,25 +13,34 @@ body {
 .line {
 	color: #2C2C2C;
 	text-align: center;
-	padding-top: 27vh;
-	margin-left: -62vw;
- }
+	padding-top: 42vh;
+	margin-left: 2vw; }
 
-.war {
+.enemy {
 	display: inline;
-	color: #8B0000;
-	
+	color: #131313;
 }
 
+.blows {
+	display: inline;
+	color: #131313;
+	font-size: 50px; 
+}
 
 #hover1:hover { 
 text-decoration: none;
-color: #a00000;
+color: #232323;
  }
+
+#hover2:hover { 
+text-decoration: none;
+color: #232323;
+ }
+
 
  a:hover { 
 text-decoration: none;
-/*color: #232323;*/
+color: #232323;
  }
 a {
 	text-decoration: none;

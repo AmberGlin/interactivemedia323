@@ -1,0 +1,55 @@
+body {
+	width: 1500px;
+	height: 1100px;
+	background-color: black; 
+	margin-left: 11vw;
+}
+
+.font {
+	font-family: 'MS Reference Sans Serif';
+	font-size: 151px;
+	font-weight: bold;
+}
+
+.wounded {
+	color: #870900;
+	display: inline;
+	position: relative;
+	top: 36vh;
+
+}
+
+.and {
+	color: #2C2C2C;
+	display: inline;
+	width: 205px;
+	position: relative;
+	top: 36vh;
+left: 1vw;
+
+
+}
+
+.bro {
+	color: #131313;
+	display: inline;
+	position: relative;
+	top: 36vh;
+left: 2vw;
+
+}
+
+.ken {
+	color: #131313;
+	float: right;
+	transform: rotate(90deg);
+	transform-origin: left top 0;
+	position: relative;
+	top: 32vh;
+right: -19vw;
+}
+
+.hover2:hover {
+	color: #2C2C2C;
+
+}

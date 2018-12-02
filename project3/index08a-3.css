@@ -11,27 +11,41 @@ body {
 }
 
 .line {
-	color: #2C2C2C;
+	color: #6f6f6f;
 	text-align: center;
 	padding-top: 27vh;
-	margin-left: -62vw;
+	margin-left: -60vw;
  }
 
-.war {
+ .line2 {
+	color: #414141;
+	text-align: center;
+	padding-top: 11vh;
+	margin-left: -4vw;
+ }
+
+ .line3 {
+	color: #232323;
+	text-align: center;
+	padding-top: 14vh;
+	margin-left: -85px;
+ }
+
+.always {
 	display: inline;
-	color: #8B0000;
-	
+	color: #454444;
+	font-size: 20px;
 }
 
 
-#hover1:hover { 
+/*#hover1:hover { 
 text-decoration: none;
-color: #a00000;
- }
+color:#a00000;
+ }*/
 
  a:hover { 
 text-decoration: none;
-/*color: #232323;*/
+color: #232323;
  }
 a {
 	text-decoration: none;

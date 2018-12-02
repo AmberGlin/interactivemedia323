@@ -10,18 +10,25 @@ body {
 	font-size: 50px;
 }
 
-.line {
+.line1 {
 	color: #2C2C2C;
 	text-align: center;
-	padding-top: 27vh;
-	margin-left: -49vw;;
- }
+	padding-top: 40vh;
+	margin-left: -24vw; }
 
-.dim {
+.darkest {
 	display: inline;
-	color: #0f0f0f;	
+	text-align: center;
+	color: #131313;
 }
 
+.alone {
+	color: #131313;
+	position: absolute;
+ 	margin-left: 65vw;
+	margin-top: 16vh;
+    font-size: 25px;
+}
 
 #hover1:hover { 
 text-decoration: none;
@@ -30,9 +37,18 @@ color: #232323;
 
  a:hover { 
 text-decoration: none;
-/*color: #232323;*/
+color: #232323;
  }
 a {
 	text-decoration: none;
 	color: inherit;
 }
+
+hover color #232323
+
+/*#l1b1:hover  .reveal1 {*/
+    /*display: block;*/
+}
+/*#l1b1:hover  {*/
+  /*background-color: #ADFF2F;*/
+/*}*/

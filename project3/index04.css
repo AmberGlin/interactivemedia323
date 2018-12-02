@@ -13,25 +13,38 @@ body {
 .line {
 	color: #2C2C2C;
 	text-align: center;
-	padding-top: 27vh;
-	margin-left: -62vw;
- }
+	padding-top: 42vh;
+	margin-left: 1vw; }
 
-.war {
+.solo {
 	display: inline;
-	color: #8B0000;
-	
+	text-align: center;
+	color: #0a0a0a;
 }
 
+.struggles {
+	display: inline;
+	text-align: center;
+	color: #0a0a0a;
+}
+
+.groan {
+	display: inline;
+	color: #0a0a0a;
+	font-size: 50px;
+    font-style: oblique;
+	text-transform: full-width;
+	font-weight: bold;
+}
 
 #hover1:hover { 
 text-decoration: none;
-color: #a00000;
+color: #232323;
  }
 
  a:hover { 
 text-decoration: none;
-/*color: #232323;*/
+color: #232323;
  }
 a {
 	text-decoration: none;

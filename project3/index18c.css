@@ -1,0 +1,92 @@
+body {
+	width: 1500px;
+	height: 1100px;
+	background-color: black; 
+	margin-left: 11vw;
+}
+
+.font {
+	font-family: 'MS Reference Sans Serif';
+	font-size: 47px;
+}
+
+.dag1 {
+	color: #870900;
+	position: absolute;
+	letter-spacing: -2px;
+	top: 5vh;
+	left: 2vw;
+
+}
+
+.dag2 {
+	color: #870900;
+	position: absolute;
+	letter-spacing: -2px;
+	top: 17vh;
+left: 64vw;
+
+}
+
+.dag3 {
+	color: #870900;
+	position: absolute;
+	letter-spacing: -2px;
+	top: 46vh;
+left: 20vw;
+}
+
+.dag4 {
+	color: #870900;
+	position: absolute;
+	letter-spacing: -2px;
+	top: 89vh;
+left: 46vw;
+
+}
+
+.dag5 {
+	color: #870900;
+	position: absolute;
+	letter-spacing: -2px;
+	top: 56vh;
+left: 87vw;
+}
+
+.dag6 {
+	color: #870900;
+	position: absolute;
+	letter-spacing: -2px;
+	top: 115vh;
+left: 12vw;
+}
+
+.dag7 {
+	color: #c00d00;
+	position: absolute;
+	letter-spacing: -2px;
+	top: 148vh;
+left: 81vw;
+}
+
+.dag8 {
+	color: #870900;
+	position: absolute;
+	letter-spacing: -2px;
+	top: 159vh;
+left: 34vw;
+}
+
+.dag7:hover {
+	color: #e41102;
+
+}
+
+a:hover { 
+text-decoration: none;
+color: #e41102;
+ }
+a {
+	text-decoration: none;
+	color: inherit;
+}

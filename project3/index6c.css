@@ -14,19 +14,20 @@ body {
 	color: #2C2C2C;
 	text-align: center;
 	padding-top: 27vh;
-	margin-left: -62vw;
+	margin-left: -49vw;;
  }
 
-.war {
+.imp {
 	display: inline;
-	color: #8B0000;
-	
+	color: #131313;
+	font-style: italic;
+	font-weight: bold;
 }
 
 
 #hover1:hover { 
 text-decoration: none;
-color: #a00000;
+color: #232323;
  }
 
  a:hover { 
@@ -35,5 +36,5 @@ text-decoration: none;
  }
 a {
 	text-decoration: none;
-	color: inherit;
+	
 }

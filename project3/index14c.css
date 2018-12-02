@@ -1,0 +1,93 @@
+body {
+    width: 1500px;
+    height: 1100px;
+    margin-left: 11vw;
+    background-color: black;
+}
+
+.font1 {
+	font-family: 'MS Reference Sans Serif';
+	font-size: 77px;
+	
+}
+
+.font2 {
+	font-family: 'MS Reference Sans Serif';
+	font-size: 66px;
+	
+}
+
+.font3 {
+	font-family: 'MS Reference Sans Serif';
+	font-size: 135px;
+	
+}
+
+.font4 {
+	font-family: 'MS Reference Sans Serif';
+	font-size: 77px;
+	color: #131313;
+	
+}
+
+.red1 {
+	color: #870900;
+	position: absolute;
+
+}
+
+.line1 {
+	vertical-align: center;
+	left: -9vw;
+	position: relative;
+	line-height: 110px;
+	color: #5D5D5D;
+}
+
+
+.line2 {
+	vertical-align: center;
+	left: 37vw;
+	top: 8px;
+	position: absolute;
+	line-height: 110px;
+	color: #5D5D5D;
+}
+
+.line3 {
+	vertical-align: center;
+	left: 75vw;
+	top: 8px;
+	position: absolute;
+	line-height: 110px;
+	color: #5D5D5D;
+	
+}
+
+
+.line4 {
+	color: #870900;
+	vertical-align: center;
+	left: 9vw;
+	top: 1vh;
+	position: absolute;
+	line-height: 220px;
+}
+
+.line5 {
+	color: #870900;
+	vertical-align: center;
+	left: 52vw;
+	top: 1vh;
+	position: absolute;
+	line-height: 220px;
+}
+
+
+a {
+	text-decoration: none;
+}
+
+.font4:hover {
+	color: #2C2C2C;
+}

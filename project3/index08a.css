@@ -11,29 +11,29 @@ body {
 }
 
 .line {
-	color: #2C2C2C;
+	color: #6f6f6f;
 	text-align: center;
 	padding-top: 27vh;
-	margin-left: -62vw;
+	margin-left: -60vw;
  }
 
-.war {
+.always {
 	display: inline;
-	color: #8B0000;
-	
+	color: #6f6f6f;
+	font-size: 20px;
 }
 
 
-#hover1:hover { 
-text-decoration: none;
-color: #a00000;
- }
-
- a:hover { 
-text-decoration: none;
-/*color: #232323;*/
- }
-a {
+/*#hover1:hover { 
 	text-decoration: none;
-	color: inherit;
+	color:#a00000;
+ }*/
+
+a {
+    color: inherit;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #2C2C2C;
 }

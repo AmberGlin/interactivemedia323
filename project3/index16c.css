@@ -14,10 +14,10 @@ body {
 	color: #2C2C2C;
 	text-align: center;
 	padding-top: 27vh;
-	margin-left: -62vw;
+	margin-left: -60vw;
  }
 
-.war {
+.bat {
 	display: inline;
 	color: #8B0000;
 	
@@ -26,12 +26,12 @@ body {
 
 #hover1:hover { 
 text-decoration: none;
-color: #a00000;
+color:#a00000;
  }
 
- a:hover { 
+a:hover { 
 text-decoration: none;
-/*color: #232323;*/
+color: #232323;
  }
 a {
 	text-decoration: none;

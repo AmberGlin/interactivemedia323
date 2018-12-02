@@ -1,0 +1,27 @@
+body {
+	width: 1500px;
+	height: 1100px;
+	background-color: black; 
+	margin-left: 11vw;
+}
+
+.font {
+	font-family: 'MS Reference Sans Serif';
+	font-size: 277px;
+}
+
+.continue {
+	text-align: center;
+	padding-top: 33vh;
+	margin-left: 2vw;
+	color: white;
+}
+
+a {
+	text-decoration: none;
+	color: #dbdbdb;
+}
+
+.continue:hover {
+	color: #dbdbdb;
+}
