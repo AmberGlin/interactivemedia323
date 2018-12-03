@@ -49,7 +49,17 @@ left: 2vw;
 right: -19vw;
 }
 
+.hover1:hover {
+	color: #aa0d02;
+
+}
+
 .hover2:hover {
 	color: #2C2C2C;
 
+}
+
+a {
+	text-decoration: none;
+	color: inherit;
 }

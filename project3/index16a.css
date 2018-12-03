@@ -29,11 +29,11 @@ text-decoration: none;
 color:#a00000;
  }
 
- /*a:hover { */
-/*text-decoration: none;*/
-/*color: #232323;*/
+ a:hover { 
+text-decoration: none;
+
  }
-/*a {*/
-	/*text-decoration: none;*/
-	/*color: inherit;*/
+a {
+	text-decoration: none;
+	color: inherit;
 }

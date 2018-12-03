@@ -23,18 +23,24 @@ body {
 	text-align: center;
 }
 
-/*.line2 {
-	
-	margin-left: 1vw;
-	color: white;
-	text-align: center;
-}*/
 
 .white {
 	text-align: center;
 	color: white;
 	line-height: 87px;
 	margin-left: 1vw;
+}
+
+.dim {
+	color: #2C2C2C;
+	display: inline;
+
+}
+
+.hap{
+	color: #ffe975;
+	display: inline;
+
 }
 
 .fight {
@@ -47,13 +53,11 @@ body {
 	color: white;
 }
 
+ a:hover { 
+text-decoration: none;
 
- /*a:hover { */
-/*text-decoration: none;*/
-/*color: #545454;*/
  }
-/*a {*/
-	/*text-decoration: none;*/
-	/*color: inherit;*/
-/*}*/
-
+a {
+	text-decoration: none;
+	color: inherit;
+}

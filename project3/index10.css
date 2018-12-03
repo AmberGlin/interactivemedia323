@@ -31,12 +31,17 @@ body {
 
 #hover1:hover { 
 text-decoration: none;
-color: #232323;
+color: #414141;
+ }
+
+ #hover2:hover { 
+text-decoration: none;
+color: #414141;
  }
 
  a:hover { 
 text-decoration: none;
-color: #232323;
+color: #414141;
  }
 a {
 	text-decoration: none;

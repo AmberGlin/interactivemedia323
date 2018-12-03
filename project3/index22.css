@@ -50,6 +50,11 @@ text-decoration: none;
 color: #2d2d2d;
  }
 
+ #hover3:hover { 
+text-decoration: none;
+color: #131313;
+ }
+
 
  a:hover { 
 text-decoration: none;

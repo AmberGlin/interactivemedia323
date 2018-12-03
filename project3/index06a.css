@@ -30,11 +30,11 @@ text-decoration: none;
 color: #232323;
  }
 
- /*a:hover { */
-/*text-decoration: none;*/
-/*color: #232323;*/
+ a:hover { 
+text-decoration: none;
+color: #232323;
  }
-/*a {*/
-	/*text-decoration: none;*/
-	/*color: inherit;*/
+a {
+	text-decoration: none;
+	color: inherit;
 }

@@ -10,11 +10,6 @@ body {
 	font-size: 50px;
 }
 
-/*.font2 {*/
-	/*font-family: 'MS Reference Sans Serif';*/
-	/*font-size: 60px;*/
-	/*display: inline;*/
-/*}*/
 
 .line {
 	padding-top: 37vh;
@@ -23,12 +18,7 @@ body {
 	text-align: center;
 }
 
-/*.line2 {
-	display: inline;
-	margin-left: -2vw;
-	color: white;
-	text-align: center;
-}*/
+
 
 .stand {
 	display: inline;
@@ -50,12 +40,14 @@ body {
 }
 
 
- /*a:hover { */
-/*text-decoration: none;*/
-/*color: #545454;*/
+ a:hover { 
+text-decoration: none;
+
  }
-/*a {*/
-	/*text-decoration: none;*/
-	/*color: inherit;*/
-/*}*/
+a {
+	text-decoration: none;
+	color: inherit;
+}
+
+
 

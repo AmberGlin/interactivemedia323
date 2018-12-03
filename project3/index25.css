@@ -40,13 +40,17 @@ body {
 	color: #dbdbdb;
 }
 
+.vic:hover {
+	color: #ffea91;
+}
 
- /*a:hover { */
-/*text-decoration: none;*/
-/*color: #545454;*/
+
+a:hover { 
+text-decoration: none;
+
  }
-/*a {*/
-	/*text-decoration: none;*/
-	/*color: inherit;*/
-/*}*/
+a {
+	text-decoration: none;
+	color: inherit;
+}
 

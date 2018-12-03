@@ -29,7 +29,7 @@ body {
 
 #hover1:hover { 
 text-decoration: none;
-color: #232323;
+color: #dbdbdb;
  }
 
 #hover2:hover { 
@@ -40,7 +40,7 @@ color: #232323;
 
  a:hover { 
 text-decoration: none;
-color: #232323;
+
  }
 a {
 	text-decoration: none;

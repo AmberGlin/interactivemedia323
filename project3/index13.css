@@ -35,17 +35,29 @@ body {
 	
 }
 
+.hap {
+	color: white;
+	display: inline;
+}
+	
+
+
 .back:hover {
 	text-decoration: none;
-	color: #4f4e4e;
+	color: #1b1b1b;
 }
 
- /*a:hover { */
-/*text-decoration: none;*/
-/*color: #545454;*/
+.hap:hover {
+	text-decoration: none;
+	color: #dbdbdb;
+}
+
+ a:hover { 
+text-decoration: none;
+
  }
-/*a {*/
-	/*text-decoration: none;*/
-	/*color: inherit;*/
-/*}*/
+a {
+	text-decoration: none;
+	color: inherit;
+}
 

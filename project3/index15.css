@@ -50,12 +50,11 @@ margin-left: 3vw;
 }
 
 
- /*a:hover { */
-/*text-decoration: none;*/
-/*color: #545454;*/
- }
-/*a {*/
-	/*text-decoration: none;*/
-	/*color: inherit;*/
-/*}*/
+ a:hover { 
+text-decoration: none;
 
+ }
+a {
+	text-decoration: none;
+	color: inherit;
+}

@@ -22,14 +22,11 @@ text-decoration: none;
 color: #ffea91;
  }
 
-
-
-
- /*a:hover { */
-/*text-decoration: none;*/
-/*color: #232323;*/
+ a:hover { 
+text-decoration: none;
+color: ;
  }
-/*a {*/
-	/*text-decoration: none;*/
-	/*color: inherit;*/
+a {
+	text-decoration: none;
+	color: inherit;
 }
