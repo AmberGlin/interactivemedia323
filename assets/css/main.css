@@ -1,0 +1,63 @@
+/* Base */
+
+html, body {
+	height: 100%;
+}
+
+body {
+	background: url('/assets/images/image05.jpg');
+}
+
+h1 {
+	font-size: 110px;
+  color: red;
+  text-align: center;
+}
+
+div {
+	background: red;
+	height: 20px;
+	width: 58px;
+	display: inline-block;
+	margin: 75px;
+  text-align: center;
+}
+
+
+/* Media Queries */
+
+@media screen and (max-width: 1024px) {
+
+  body { background: url('/assets/images/image02.jpg'); }
+  h1 { font-size: 70px; }
+
+}
+
+@media screen and (max-width: 924px) {
+
+  body { background: url('/assets/images/image01.jpg'); }
+  h1 { font-size: 50px; }
+
+}
+
+@media screen and (max-width: 774px) {
+
+  body { background: url('/assets/images/image06.jpg'); }
+  h1 { font-size: 20px; }
+
+}
+
+@media screen and (max-width: 674px) {
+  
+  body { background: url('/assets/images/image04.jpg'); }
+  h1 { font-size: 10px; }
+  div { display: block; }
+
+}
+
+@media screen and (max-width: 574px) {
+
+  body { background: url('/assets/images/image03.jpg');}
+  h1 { font-size: 8px; }
+
+}
