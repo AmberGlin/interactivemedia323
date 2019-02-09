@@ -1,6 +1,7 @@
 body {
 	height: 100%;
 	width: 100%;
+
 	background-color: black;
 	font-size: 1.75vw;
 	justify-content: center;
@@ -48,3 +49,4 @@ right: 39vw;
 top: 25vh;
 
 }
+
