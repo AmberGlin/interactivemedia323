@@ -1,7 +1,50 @@
 body {
 	height: 100%;
 	width: 100%;
-	background-color: #EE71DF;
-	font-size: 25px;
+	background-color: black;
+	font-size: 1.75vw;
 	justify-content: center;
+	font-family: 'arial';
+	text-align: center;
+}
+
+a:hover, a:visited, a:link, a:active {
+	text-decoration: none;
+}
+
+h1 {
+	color: #41dd3b;
+
+}
+
+p {
+	color: #41dd3b;
+	margin-left: 2vw;
+}
+
+a:visited {
+	color: #c5d813;
+}
+
+.bar { 
+position: absolute;
+border-radius: 1vw;
+background: #7CFC00;
+width: .60vw;
+height: 67vh;
+display: inline-block;
+right: 58vw;
+top: 15vh;
+}
+
+.bar2 { 
+      position: absolute;
+border-radius: 1vw;
+background: #7CFC00;
+width: .60vw;
+height: 67vh;
+display: inline-block;
+right: 39vw;
+top: 25vh;
+
 }
